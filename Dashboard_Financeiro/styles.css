@@ -1,5 +1,18 @@
+body{
+    background-color: rgb(209, 207, 207);
+}
 #chart {
     position: absolute;
     top: 250px;
     width: 600px;
+    background-color: white;
+}
+
+#chart2 {
+    position: absolute;
+    top: 250px;
+    width: 300px;
+    left: 615px;
+    height: 265px;
+    background-color: white;
 }
