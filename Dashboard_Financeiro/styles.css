@@ -3,16 +3,32 @@ body{
 }
 #chart {
     position: absolute;
-    top: 250px;
+    top: 27%;
     width: 600px;
     background-color: white;
 }
 
 #chart2 {
     position: absolute;
-    top: 250px;
+    top: 27%;
     width: 300px;
-    left: 615px;
+    left: 40%;
+    height: 265px;
+    background-color: white;
+}
+
+#chart3 {
+    position: absolute;
+    top: 63%;
+    width: 600px;
+    background-color: white;
+}
+
+#chart4 {
+    position: absolute;
+    top:63%;
+    width: 300px;
+    left: 40%;
     height: 265px;
     background-color: white;
 }
