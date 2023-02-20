@@ -1,0 +1,39 @@
+@import url("https://fonts.googleapis.com/css2?family=Oxanium:wght:@300;400;500;600;700;800&display=swap");
+
+.form{
+    position: absolute;
+    width: 65%;
+    top: 62%;
+    left: 15.5%;
+}
+
+.pesquisa{
+    width: 100%;
+    padding: 4%;
+    outline: none;
+    border: 2px solid #333;
+    border-radius: 5px;
+    font-weight: 600;
+    color: #3a444d;
+}
+
+.pokeImg{
+    position: absolute;
+    height: 16%;
+    top: 35%;
+    left: 35%;
+}
+
+.pokeData{
+    position: absolute;
+    font-weight: 100;
+    color: #aaa;
+    top: 52%;
+    left: 36%;
+    font-size: clamp(8px, 5vw, 25px);
+}
+
+.pokeName{
+    color: #3a444d;
+    text-transform: capitalize;
+}
