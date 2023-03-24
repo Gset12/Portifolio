@@ -6,7 +6,6 @@ import Poke from "./pokedex.png";
 const Pokedex = () => {
   const [pokemon, setPokemon] = useState({})
   const [name, setNome] = useState("")
-  const [clicou, setClicou] = useState(false)
 
     axios.get(`https://pokeapi.co/api/v2/pokemon/${name.toLowerCase()}`).then(({data}) =>{
 
@@ -18,7 +17,6 @@ const Pokedex = () => {
         }
       )
     });
-  
   
   return (
     <>
