@@ -1,0 +1,27 @@
+body {
+    background-color: black;
+}
+
+.game{
+    width:603px;
+    height:600px;
+    border:solid 3px;
+    margin-left: 27%;
+    margin-top: 5%;
+    background-color: gray;
+}
+
+.linha{
+    height:200px;
+    border-bottom:solid 1px;
+}
+
+.casa{
+    width:200px;
+    height:100%;
+    border-right:solid 1px;
+    float:left;
+}
+button {
+    font-size: 40px;
+}
