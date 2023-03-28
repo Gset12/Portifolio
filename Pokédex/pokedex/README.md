@@ -13,6 +13,6 @@ Este projeto tem como objetivo simular o funcionamento de uma Pokédex (equipame
 
 ## Como usar:
 
-Ao acessar a pasta Pokédex, no cmd, faça o seguinte:
+Ao acessar a pasta Pokédex, abra o terminal na pasta e digite o seguinte:
  * cd Pokédex
  * npm start
