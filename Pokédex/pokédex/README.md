@@ -13,11 +13,13 @@ Este projeto tem como objetivo simular o funcionamento de uma Pokédex (equipame
   <td>Linguagens de marcação e estilização</td>
   <td>Prototipagem</td>
  </tr>
+ <tr>
+  <td>JavaScript </td>
+  <td>React</td>
+  <td>HTML e CSS</td>
+  <td>Figma</td>
+ </tr>
 </table>
- * JavaScript (linguagem de programação);
- * React (framework);
- * HTML/CSS (marcação e estilização)
- * Figma (prototipagem)
 
 ## Como usar:
 
