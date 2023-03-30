@@ -9,6 +9,9 @@ Este projeto tem como objetivo simular o funcionamento de uma Pokédex (equipame
 <table>
  <tr>
   <td>Linguagem de Programação</td>
+  <td>Framework</td>
+  <td>Linguagens de marcação e estilização</td>
+  <td>Prototipagem</td>
  </tr>
 </table>
  * JavaScript (linguagem de programação);
