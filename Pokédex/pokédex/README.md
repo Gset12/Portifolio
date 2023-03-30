@@ -6,6 +6,11 @@ Este projeto tem como objetivo simular o funcionamento de uma Pokédex (equipame
 
 ## Tecnologias usadas:
 
+<table>
+ <tr>
+  <td>Linguagem de Programação</td>
+ </tr>
+</table>
  * JavaScript (linguagem de programação);
  * React (framework);
  * HTML/CSS (marcação e estilização)
@@ -14,5 +19,10 @@ Este projeto tem como objetivo simular o funcionamento de uma Pokédex (equipame
 ## Como usar:
 
 Ao acessar a pasta Pokédex, abra o terminal na pasta e digite o seguinte:
- * cd Pokédex
- * npm start
+ ```
+ cd pokedex
+ npm start
+```
+
+## Imagens:
+
