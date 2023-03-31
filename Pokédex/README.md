@@ -7,12 +7,14 @@ Este projeto tem como objetivo simular o funcionamento de uma Pokédex (equipame
 ## Tecnologias usadas:
 
 <table>
- <tr>
-  <td>Linguagem de Programação</td>
-  <td>Framework</td>
-  <td>Linguagens de marcação e estilização</td>
-  <td>Prototipagem</td>
- </tr>
+ <thead>
+  <tr>
+   <th>Linguagem de Programação</th>
+   <th>Framework</td>
+   <th>Linguagens de marcação e estilização</th>
+   <th>Prototipagem</th>
+  </tr>
+ </thead>
  <tr>
   <td>JavaScript </td>
   <td>React</td>
@@ -20,6 +22,8 @@ Este projeto tem como objetivo simular o funcionamento de uma Pokédex (equipame
   <td>Figma</td>
  </tr>
 </table>
+
+## Status
 
 ## Como usar:
 
