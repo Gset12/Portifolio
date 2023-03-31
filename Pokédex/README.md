@@ -23,13 +23,16 @@ Este projeto tem como objetivo simular o funcionamento de uma Pokédex (equipame
  </tr>
 </table>
 
-## Status
+## Status:
+
+Finalizado ✅
 
 ## Como usar:
 
 Ao acessar a pasta Pokédex, abra o terminal na pasta e digite o seguinte:
  ```
  cd pokedex
+ npm install axios
  npm start
 ```
 
